@@ -1,0 +1,258 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:iamport-react-native] /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/node_modules/iamport-react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-gesture-handler] /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/f89fd0715367c276145903ea4084e087/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/649f758af74a05b90270b099b7591600/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/7926151a39fab5ac4e63dde0d91c0b67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/35c2fcb694e134e4cf0d747da3074f5a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/59e4a14aface05140e48e19a6ecd2216/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/b050973b92cb0bcea519b1fc8e49ad84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/7b5630854ce115d323e3419f0ac1a216/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/5e2e76003531636ed660393db52462d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/4afb1868416c2bf7ab8a3ccd082b2b7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/356789dcf2d7c539a1ef707c0f12d65c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/7edcd723c0aaa1f71a0694e97bf8219a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/9bb340e431856f20d0f6ca18373f7406/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/e8df67b9c4c9e94c5c217b089cca31ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/2cc90f339364686ee24888282e4e260d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/1be36a68ba0e7b67728f98dbfeb5e6d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/ae0c9c568767dab0d4976e56b2c39346/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/8978ed59cadb83db55a4628c227c0886/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/eac99bd8c9d4d0f4a65618a52ecf29b9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/fc627489f5e104cfbcc153e2698a3293/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/4a92fe14b1c23e96eb0302d161d811ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/0446290cb5894527d0ef87601f5c02b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/0f42d5af6c91603655f84d39c7b5bd2e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/cd7759172e80e1793fe584a060d0c6aa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/8a2df6b38cf012e82c9effbb93938793/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/1538e7b1d01df46148aebc0893a8918d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/1012d5f220d358f21734aa692b66fee4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/dec21e72682d5fc20d69b3c4008f1692/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/2e188ec7e94bb2764c8051acb6742d65/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/492abc05dbff59a89d78482510582066/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/02b31c8d0e63da26146b343e148470bb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/3f151cca97048dfd417807f80a3dc8d5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/ad1d281a50cab8c5c76153f24465a2ac/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/8244a3b1b9934ee455c1216aaabac415/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/9c50f7d36212ab7c288c687d3647d440/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:2:3-34
+		INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:2:3-34
+		INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:6:5-31:19
+MERGED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:6:5-31:19
+MERGED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:6:5-31:19
+MERGED from [:react-native-webview] /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/f89fd0715367c276145903ea4084e087/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/f89fd0715367c276145903ea4084e087/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/ae0c9c568767dab0d4976e56b2c39346/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/ae0c9c568767dab0d4976e56b2c39346/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/8978ed59cadb83db55a4628c227c0886/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/8978ed59cadb83db55a4628c227c0886/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/8244a3b1b9934ee455c1216aaabac415/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/8244a3b1b9934ee455c1216aaabac415/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/ae0c9c568767dab0d4976e56b2c39346/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.exampleforwebview.MainActivity
+ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:13:7-29:18
+	android:label
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:launchMode
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:15:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:21:23-70
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:exampleForWebView
+ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:23:9-28:25
+action#android.intent.action.VIEW
+ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:24:11-62
+	android:name
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:24:19-60
+category#android.intent.category.DEFAULT
+ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:25:11-69
+	android:name
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:25:21-67
+category#android.intent.category.BROWSABLE
+ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:26:11-71
+	android:name
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:26:21-69
+data
+ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:27:11-54
+	android:scheme
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:27:17-51
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:30:7-84
+	android:name
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml:30:17-81
+uses-sdk
+INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml
+MERGED from [:iamport-react-native] /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/node_modules/iamport-react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:iamport-react-native] /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/node_modules/iamport-react-native/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/f89fd0715367c276145903ea4084e087/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/f89fd0715367c276145903ea4084e087/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/649f758af74a05b90270b099b7591600/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/649f758af74a05b90270b099b7591600/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/7926151a39fab5ac4e63dde0d91c0b67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/7926151a39fab5ac4e63dde0d91c0b67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/35c2fcb694e134e4cf0d747da3074f5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/35c2fcb694e134e4cf0d747da3074f5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/59e4a14aface05140e48e19a6ecd2216/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/59e4a14aface05140e48e19a6ecd2216/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/b050973b92cb0bcea519b1fc8e49ad84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/b050973b92cb0bcea519b1fc8e49ad84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/7b5630854ce115d323e3419f0ac1a216/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/7b5630854ce115d323e3419f0ac1a216/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/5e2e76003531636ed660393db52462d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/5e2e76003531636ed660393db52462d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/4afb1868416c2bf7ab8a3ccd082b2b7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/4afb1868416c2bf7ab8a3ccd082b2b7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/356789dcf2d7c539a1ef707c0f12d65c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/356789dcf2d7c539a1ef707c0f12d65c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/7edcd723c0aaa1f71a0694e97bf8219a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/7edcd723c0aaa1f71a0694e97bf8219a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/9bb340e431856f20d0f6ca18373f7406/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/9bb340e431856f20d0f6ca18373f7406/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/e8df67b9c4c9e94c5c217b089cca31ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/e8df67b9c4c9e94c5c217b089cca31ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/2cc90f339364686ee24888282e4e260d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/2cc90f339364686ee24888282e4e260d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/1be36a68ba0e7b67728f98dbfeb5e6d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/1be36a68ba0e7b67728f98dbfeb5e6d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/ae0c9c568767dab0d4976e56b2c39346/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/ae0c9c568767dab0d4976e56b2c39346/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/8978ed59cadb83db55a4628c227c0886/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/8978ed59cadb83db55a4628c227c0886/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/eac99bd8c9d4d0f4a65618a52ecf29b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/eac99bd8c9d4d0f4a65618a52ecf29b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/fc627489f5e104cfbcc153e2698a3293/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/fc627489f5e104cfbcc153e2698a3293/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/4a92fe14b1c23e96eb0302d161d811ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/4a92fe14b1c23e96eb0302d161d811ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/0446290cb5894527d0ef87601f5c02b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/0446290cb5894527d0ef87601f5c02b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/0f42d5af6c91603655f84d39c7b5bd2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/0f42d5af6c91603655f84d39c7b5bd2e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/cd7759172e80e1793fe584a060d0c6aa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/cd7759172e80e1793fe584a060d0c6aa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/8a2df6b38cf012e82c9effbb93938793/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/8a2df6b38cf012e82c9effbb93938793/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/1538e7b1d01df46148aebc0893a8918d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/1538e7b1d01df46148aebc0893a8918d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/1012d5f220d358f21734aa692b66fee4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/1012d5f220d358f21734aa692b66fee4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/dec21e72682d5fc20d69b3c4008f1692/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/dec21e72682d5fc20d69b3c4008f1692/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/2e188ec7e94bb2764c8051acb6742d65/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/2e188ec7e94bb2764c8051acb6742d65/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/492abc05dbff59a89d78482510582066/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/492abc05dbff59a89d78482510582066/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/02b31c8d0e63da26146b343e148470bb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/02b31c8d0e63da26146b343e148470bb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/3f151cca97048dfd417807f80a3dc8d5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/3f151cca97048dfd417807f80a3dc8d5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/ad1d281a50cab8c5c76153f24465a2ac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/ad1d281a50cab8c5c76153f24465a2ac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/8244a3b1b9934ee455c1216aaabac415/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/8244a3b1b9934ee455c1216aaabac415/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/9c50f7d36212ab7c288c687d3647d440/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/kwonohsung/.gradle/caches/transforms-2/files-2.1/9c50f7d36212ab7c288c687d3647d440/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/src/debug/AndroidManifest.xml:5:22-75
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] /Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67

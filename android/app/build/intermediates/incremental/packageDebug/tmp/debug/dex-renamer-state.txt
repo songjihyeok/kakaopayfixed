@@ -1,0 +1,4 @@
+#Thu Oct 10 15:13:25 KST 2019
+base.0=/Users/kwonohsung/IM7/iamport-react-native/exampleForWebView/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
